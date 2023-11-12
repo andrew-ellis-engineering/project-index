@@ -2,7 +2,7 @@
 The following list is the projects and their repositories that I have here in my personal GitHub account.
 
 ## Live
-[Front End React Application for my Personal Website](https://github.com/andrew-ellis-engineering/front-end)
+* [Front End React Application for my Personal Website](https://github.com/andrew-ellis-engineering/front-end)
 
 ## In Progress
 
@@ -12,3 +12,4 @@ The following list is the projects and their repositories that I have here in my
 * REST API written in Rust that implements a variety of Cryptographic primitives and protocols
 * REST API written in Golang that solves a handful of interesting LeetCode style problems given input from the user
 * GraphQL API written in Ruby to interface applications with my personal website easily
+* UI changes as necessary to make the above applications visible to users
