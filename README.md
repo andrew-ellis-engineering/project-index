@@ -12,4 +12,5 @@ The following list is the projects and their repositories that I have here in my
 * REST API written in Rust that implements a variety of Cryptographic primitives and protocols
 * REST API written in Golang that solves a handful of interesting LeetCode style problems given input from the user
 * GraphQL API written in Ruby to interface applications with my personal website easily
+* Terraform project for configuring applications deployments
 * UI changes as necessary to make the above applications visible to users
