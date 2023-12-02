@@ -6,6 +6,7 @@ The following list is the projects and their repositories that I have here in my
 
 ## In Progress
 * [REST API written in Golang that solves a handful of interesting LeetCode style problems given input from the user](https://github.com/andrew-ellis-engineering/golang-problem-solver)
+* [Advent of Code 2023 written in Rust](https://github.com/andrew-ellis-engineering/aoc-2023)
 
 ## Planned Projects
 * Web Scraper to collect historical NCAA Men's Basketball data
